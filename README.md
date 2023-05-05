@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-mnnit000&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-mnnit000" /> </p>
 
-- 🔭 I’m currently working on [MEDICARE](https://github.com/Rohit0508/MEDICARE)
+- 🔭 I’m currently working on [LearNable](https://github.com/priyanshu5656/LearnAble)
 
 - 🌱 I’m currently learning **REACT JS,NODE JS**
 
