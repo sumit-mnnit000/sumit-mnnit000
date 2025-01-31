@@ -3,16 +3,13 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-mnnit000&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-mnnit000" /> </p>
+- 🌱 I’m currently learning AI and ML
 
-- 🔭 I’m currently working on [LearNable](https://github.com/priyanshu5656/LearnAble)
+- 💻 I love doing competitive programming and learning new algorithms.
 
-- 🌱 I’m currently learning **REACT JS,NODE JS**
-
-- 👯 I’m looking to collaborate on [SMILING-MIND](https://github.com/sharmavasant/SMILING-MIND)
+- ⚡ Hobby - Reading Books, Travelling, Movies or Web Series
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumit-mnnit000](https://github.com/sumit-mnnit000)
-
-- 💬 Ask me about **REACT JS, NODE JS,EXPRESS JS**
 
 - 📫 How to reach me **sumitkasaudhan526@gmail.com**
 
