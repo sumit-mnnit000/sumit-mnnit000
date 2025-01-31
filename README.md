@@ -3,6 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-mnnit000&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-mnnit000" /> </p>
+
 - 🌱 I’m currently learning AI and ML
 
 - 💻 I love doing competitive programming and learning new algorithms.
@@ -15,12 +16,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1t6s6qAq88p3U46vxHJm263ASHkTznV64/view?usp=sharing](https://drive.google.com/file/d/1t6s6qAq88p3U46vxHJm263ASHkTznV64/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
+### My Social Media Handles
 <p align="left">
 <a href="https://linkedin.com/in/sumit kasaudhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit kasaudhan" height="30" width="40" /></a>
 <a href="https://instagram.com/silvershades_sumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="silvershades_sumit" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sam_noob123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sam_noob123" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/decoder_555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="decoder_555" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumit_0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit_0000" height="30" width="40" /></a>
+  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
